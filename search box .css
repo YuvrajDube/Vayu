@@ -1,0 +1,225 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    background: rgb(236, 236, 236);
+}
+header{
+    background:  #fffbed ;
+    height: 70px;
+    box-shadow: inset;
+    
+}
+.glass{
+    background: transparent;
+}
+
+.search{
+    width: max-content;
+    display: flex;
+    align-items: center;
+    padding: 14px;
+    border-radius: 28px;
+    background: #e0e0e0;
+    position: absolute;
+    right: 1060px;
+    top: 9px;
+}
+.bar{
+    border: 0px;
+    background-color: #e0e0e0;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+
+}
+.img{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 30px;
+    top: 13px;
+}
+.Ranking{
+    position: absolute;
+    top: 19px;
+    right: 700px;
+width: 85px;
+height: 34px;
+border-radius: 10px;
+border: 0px;
+background: #fffbed;
+font-size: 16px;
+}
+.Ranking:hover{
+    background: #046afb ;
+}
+.Monitors{
+    position: absolute;
+    top: 19px;
+    right: 580px;
+width: 85px;
+height: 34px;
+border-radius: 10px;
+border: 0px;
+background: #fffbed;
+font-size: 16px;
+
+}
+.Monitors:hover{
+    background: #046afb ;
+}
+.india{
+    position: absolute;
+    top: 19px;
+    right: 460px;
+width: 85px;
+height: 34px;
+border-radius: 10px;
+border: 0px;
+background: #fffbed;
+font-size: 16px;
+
+}
+.india:hover{
+    background: #046afb ;
+}
+.resources{
+    position: absolute;
+    top: 19px;
+    right: 340px;
+width: 110px;
+height: 34px;
+border-radius: 10px;
+border: 0px;
+background: #fffbed;
+font-size: 16px;
+
+}
+.resources:hover{
+    background: #046afb ;
+}
+.login{
+    position: absolute;
+    top: 19px;
+    right: 220px;
+width: 85px;
+border-radius: 10px;
+height: 34px;
+border: 0px;
+background: #fffbed;
+font-size: 16px;
+
+}
+.login:hover{
+    background: #046afb ;
+}
+.ar1{
+    position: absolute;
+    top: 24px;
+    right: 695px;
+    background: transparent;
+
+}
+.ar2{
+    position: absolute;
+    top: 22px;
+    right: 469px;
+    background: transparent;
+
+}
+.ar3{
+    position: absolute;
+    top: 23px;
+    right: 338px;
+    background: transparent;
+
+}
+.if{
+    position: absolute;
+    width: 25px;
+    top: 24px;
+    right: 512px;
+    border-radius: 30px;
+    background: transparent;
+}
+.head{
+    position: absolute;
+    left: 1600px;
+    top: 0px;
+}
+.AQIL{
+    position: absolute;
+    left: 190px;
+    width: 600px;
+    border-radius: 15px;
+}
+.AQM{
+    position: absolute;
+    width: 451px;
+    right: 180px;
+    border-radius: 15px;
+}
+.loca
+{
+    position: absolute;
+    top: 95px;
+    left: 205px;
+}
+.IC2{
+    position: absolute;
+    width: 420px;
+    left: 190px;
+    top: 380px;
+    border-radius: 15px ;
+}
+.ic3{
+position: absolute;
+width: 630px;
+left: 630px;
+top: 382px;
+border-radius: 15px;}
+.ic5{
+    position: absolute;
+    width:420px;
+    left: 190px;
+    top: 957px;
+    border-radius: 15px;
+}
+.ic6{
+    position: absolute;
+    width: 630px;
+    left: 630px;
+    top: 700px;
+    border-radius: 15px;
+}
+.ic7{
+    position: absolute;
+    width: 630px;
+    left: 630px;
+    top: 900px;
+    border-radius: 15px;
+}
+.ic8{
+    position: absolute;
+    left: 190px;
+    top: 1512px;
+    width: 1080px;
+    border-radius: 15px;
+}
+.footer{
+    background: black;
+    position: absolute;
+    top: 1850px;
+    height: 80px;
+    width: 1500px;
+    color: white;
+}
+.text{
+    position: absolute;
+    bottom: 35px;
+    background: transparent;
+    left: 680px;
+}
